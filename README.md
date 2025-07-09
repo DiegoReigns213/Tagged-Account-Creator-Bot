@@ -90,5 +90,5 @@ This project is a stealth automation bot designed to create and manage multiple 
 ## Key Stats:
 - **Automation Accuracy:** 98% success in completing account registrations.
 - **Session Stability:** 24/7 uptime with auto-recovery on failures.
-- **Concurrent Account Management:** Supports up to 500 simultaneous account creations.
+- **Concurrent Account Management:** Supports up to 200 simultaneous account creations.
 - **Action Randomization Effectiveness:** Detected as human 99% of the time.
